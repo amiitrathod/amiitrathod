@@ -4,8 +4,7 @@
      height="45"
      width="45" />
   </h1>
-  <p align="center">📝 <strong>Feel free to contact me. I am always here...</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://github.com/amiitrathod" target="_blank">Follow Me on GitHub</a></p>
-  <h2 align="center"> <samp>Data Science | Software Developer </samp></h2>
+  <h1 align="center"> <samp>Data Science | Software Developer </samp></h1>
 </div>
 
 <p align="center">
@@ -28,7 +27,7 @@
 🌱 &nbsp;On a journey to delve deeper into Cyber Security, Artificial Intelligence, Machine Learning, Data Science, and Cloud Architecture.\
 💬 &nbsp;Reach out for pro bono consulting, volunteering, or engaging discussions.\
 ✉️ &nbsp;Drop me an email at amitrathod0005@gmail.com, and I'll aim to respond promptly.\
-📄 &nbsp;Visit my website for additional insights about me[Website](https://www.linkedin.com/in/amiitrathod/). Open to receiving feedback and suggestions!
+📄 &nbsp;Visit my website for additional insights about me [Website](https://www.linkedin.com/in/amiitrathod/). Open to receiving feedback and suggestions!
 
 </br>
 </br>
@@ -60,7 +59,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ### 🛠 &nbsp;Tech Stack 🔥
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" align="right"/>
 
 ### Languages:-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
@@ -134,7 +133,11 @@ Known on the internet as [amit rathod](https://www.google.com/search?q=amiitrat
 
 <br>
 
+<div align="center">
+  <p align="center">📝 <strong>Feel free to contact me. I am always here...</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://github.com/amiitrathod" target="_blank">Follow Me on GitHub</a></p>
+</div>
 
 <div align="center">
-<h2> Show some ❤️ by starring some of the repositories! </h2>
+  <h2> Show some ❤️ by starring some of the repositories! </h2>
 </div>
+
