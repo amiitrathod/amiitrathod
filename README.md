@@ -1,12 +1,12 @@
-### Hi there 👋
+###  Hi there 👋
 
 👨🏻‍💻  About Me
-💡  I like to explore new technologies ,develop software solutions and quick hacks.
-🎓  I’m currently working as a Data Science practitioner.
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architectur.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at sejalmankar444@gmail.com! I'll try to respond as soon as I can.
-📄  Please have a look at my Website for more details about me. I'm open to feedback and suggestions!
+💡 Enthusiastic about exploring emerging technologies, crafting software solutions, and devising quick hacks.
+🎓 Currently serving as a Software Engineering Intern.
+🌱 On a journey to delve deeper into Cyber Security, Artificial Intelligence, Machine Learning, Data Science, and Cloud Architecture.
+💬 Reach out for pro bono consulting, volunteering, or engaging discussions.
+✉️ Drop me an email at amitrathod0005@gmail.com, and I'll aim to respond promptly.
+📄 Visit my website for additional insights about me. Open to receiving feedback and suggestions!
 
 
 🛠  Tech Stack 🔥
