@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I am Amit rathod <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+  <h1>Hi there 👋, I am Amit Rathod <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-<a href="https://twitter.com/yess_sejal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@yess_sejal"></a>
-<a href="mailto:sejalmankar444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-sejalmankar444@gmail.com"/>
-<a align="center" href="https://www.linkedin.com/in/sejal-mankar-270664226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/sejal-mankar"/>
+<a href="https://www.instagram.com/amiitrathod" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@yess_sejal"></a>
+<a href="mailto:amitrathod0005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-sejalmankar444@gmail.com"/>
+<a align="center" href="https://www.linkedin.com/in/amiitrathod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/sejal-mankar"/>
 
 <!-- <a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
 <a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
@@ -17,16 +17,16 @@
 
 </p>
 
-<img src="https://github.com/udaylunawat/udaylunawat/blob/master/img/lennon_word.png" height="300" width="200" align="right"/>
+<img src="https://media.giphy.com/media/0nUVSPSDoMuJgcCjZf/giphy.gif" height="300" width="200" align="right"/>
 	
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies ,develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently working as a Data Science practitioner.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architectur.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sejalmankar444@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.linkedin.com/in/sejal-mankar-270664226/) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp; Enthusiastic about exploring emerging technologies, crafting software solutions, and devising quick hacks.\
+🎓 &nbsp;Currently serving as a Software Engineering Intern.\
+🌱 &nbsp;On a journey to delve deeper into Cyber Security, Artificial Intelligence, Machine Learning, Data Science, and Cloud Architecture.\
+💬 &nbsp;Reach out for pro bono consulting, volunteering, or engaging discussions.\
+✉️ &nbsp;Drop me an email at amitrathod0005@gmail.com, and I'll aim to respond promptly.\
+📄 &nbsp;Visit my website for additional insights about me[Website](https://www.linkedin.com/in/sejal-mankar-270664226/). Open to receiving feedback and suggestions!
 
 </br>
 </br>
@@ -40,7 +40,7 @@
 
 I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data.I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 
-Iam undergrauate in Computer Science Engineering from <a href="https://prmceam.ac.in/" target="_blank">**PRMCEAM**</a>, Badnera-Amravati &  I am working on Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
+Iam undergrauate in Information Technology Engineering from <a href="https://ycce.edu/" target="_blank">**YCCE**</a>, Wanadongri-Nagpur &  I am working on Machine Learning Engineering where I am learning new things in Data Science and implementing them in various projects.
 
 I am introduce to the field of Data Science and Machine learning during my 3rd year in College, during which I implemented projects in Natural Language Processing and ML. Since then, I breathe data.
 
@@ -64,6 +64,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
+![Flutter Badge](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=Flutter)
 ### Data Analysis:-
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
@@ -112,25 +114,25 @@ Data Visualization, Tableau, Pipeline.
   <tr>
     <td>
       
-Known on the internet as [sejal_mankar](https://www.google.com/search?q=sejal_mankar)
+Known on the internet as [amit rathod](https://www.google.com/search?q=amiitrathod)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal_mankar)](https://www.linkedin.com/in/sejal-mankar-270664226/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:sejalmankar444@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/sejalmankar1012)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/9370124045)](https://wa.me/9370124045)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amiitrathod)](https://www.linkedin.com/in/amiitrathod/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amitrathod0005@gmail.com)](mailto:amitrathod0005@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/amiitrathod)](https://github.com/amiitrathod)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/9322812565)](https://wa.me/9322812565)
 
 <!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
  </td>   
      <td>
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=sejalmankar1012&show_icons=true&hide=&hide_border=true&theme=tokyonight">
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=amiitrathod&show_icons=true&hide=&hide_border=true&theme=tokyonight">
      </td>
    </tr>
 </table>
 
 <br>
 
-
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amiitrathod?label=Follow%20Me&style=social)](https://github.com/amiitrathod)
 
 <div align="center">
 <h2> Show some ❤️ by starring some of the repositories! </h2>
