@@ -4,7 +4,7 @@
      height="45"
      width="45" />
   </h1>
-  <p align="center">📝 <em>Feel free to contact me. I am always here...</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amiitrathod?label=Follow%20Me&style=social)](https://github.com/amiitrathod)</p>
+  <p align="center">📝 <strong>Feel free to contact me. I am always here...</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amiitrathod?label=Follow%20Me&style=social)](https://github.com/amiitrathod)</p>
   <h2 align="center"> <samp>Data Science | Software Developer </samp></h2>
 </div>
 
