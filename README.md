@@ -1,5 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I am Amit Rathod <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+					   📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amiitrathod?label=Follow%20Me&style=social)](https://github.com/amiitrathod)
+
          alt="Waving hand animated gif"
          height="45"
          width="45" />
@@ -26,7 +28,7 @@
 🌱 &nbsp;On a journey to delve deeper into Cyber Security, Artificial Intelligence, Machine Learning, Data Science, and Cloud Architecture.\
 💬 &nbsp;Reach out for pro bono consulting, volunteering, or engaging discussions.\
 ✉️ &nbsp;Drop me an email at amitrathod0005@gmail.com, and I'll aim to respond promptly.\
-📄 &nbsp;Visit my website for additional insights about me[Website](https://www.linkedin.com/in/sejal-mankar-270664226/). Open to receiving feedback and suggestions!
+📄 &nbsp;Visit my website for additional insights about me[Website](https://www.linkedin.com/in/amiitrathod/). Open to receiving feedback and suggestions!
 
 </br>
 </br>
@@ -132,7 +134,6 @@ Known on the internet as [amit rathod](https://www.google.com/search?q=amiitrat
 
 <br>
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amiitrathod?label=Follow%20Me&style=social)](https://github.com/amiitrathod)
 
 <div align="center">
 <h2> Show some ❤️ by starring some of the repositories! </h2>
