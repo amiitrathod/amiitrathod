@@ -8,9 +8,9 @@
 </div>
 
 <p align="center">
-<a href="https://www.instagram.com/amiitrathod" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter-@yess_sejal"></a>
-<a href="mailto:amitrathod0005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-sejalmankar444@gmail.com"/>
-<a align="center" href="https://www.linkedin.com/in/amiitrathod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/sejal-mankar"/>
+<a href="https://www.instagram.com/amiitrathod" target="_blank"><img src="https://img.shields.io/badge/Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Instagram-@amiitrathod"></a>
+<a href="mailto:amitrathod0005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-amitrathod0005@gmail.com"/>
+<a align="center" href="https://www.linkedin.com/in/amiitrathod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn/amiitrathod"/>
 
 <!-- <a href="https://paypal.me/udaylunawat" target="_blank"><img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&labelColor=000000&logo=PayPal" alt="https://paypal.me/udaylunawat"></a>
 <a href="https://open.spotify.com/playlist/69Ez7Nck73tXmrbGSVXdJ6" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
